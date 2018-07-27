@@ -9,7 +9,7 @@ Algorithms implemented in c++
 
 
 ## A very complex linked list tree builder with weight and all. That would required it's own README.md
-    Please open the tree_build folder
+    Please open the self_balance_tree folder
 
 
 
