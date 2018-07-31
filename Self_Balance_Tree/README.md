@@ -1,2 +1,2 @@
 # Execute:
-  with gcc main.c
+  with g++ main.cpp -o main && ./main -[option]
